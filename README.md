@@ -1,4 +1,5 @@
 ﻿# Ruby To-Do App for CodeCademy
+<p>Codecademy final project for Ruby - a command-line Todo List project you can read and write to</p>
 
 <h2>Core User Stories</h2>
 
